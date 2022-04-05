@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "OutputDataLake": "DefaultEndpointsProtocol=https;AccountName=datalakesadazure;AccountKey=T+bOpS9tY8WOt4jJx3dMKWBfRkpGSQBYwg07MzrwkLjeJYoXu21DTVPVrnofabWAbwBjIXUxkQSMm/FqKK8QVw==;EndpointSuffix=core.windows.net",
+    "InputDataLake": "DefaultEndpointsProtocol=https;AccountName=datalakesadazureinputs;AccountKey=sJzmEzp4Xz9EIzGQ/L/iG7QFI3/acmXFwGE+Kkk8O23ezUomgT7ScScY0Eo7vIS2gS6jJtN7oQvY9ojsngNDdA==;EndpointSuffix=core.windows.net",
+    "DashboardApplicationInsights":"InstrumentationKey=8caab802-1783-410e-b72e-76c98fea41e9;IngestionEndpoint=https://northcentralus-0.in.applicationinsights.azure.com/"
+  }
+}
